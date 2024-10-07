@@ -1,3 +1,5 @@
+![dss screenshot](https://github.com/user-attachments/assets/005a4b81-c4f8-437f-83bb-d00728a4263a)
+
 Here is the small Power BI project I created with the help of my MSSQL database. 
 It includes a report on the Driver Safety Scorecard, featuring data from September 1, 2024. 
 In this project, I developed the dashboard using KPIs, a donut chart, and a bar graph, along with DAX queries to enhance interactivity.

@@ -1,4 +1,4 @@
-![Driver Safety Scorecard](dss%20screenshot.png)
+![dss screenshot](dss%20screenshot.png)
 
 Here is the small Power BI project I created with the help of my MSSQL database. 
 It includes a report on the Driver Safety Scorecard, featuring data from September 1, 2024. 

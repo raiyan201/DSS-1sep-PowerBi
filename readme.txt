@@ -1,4 +1,5 @@
-![dss_screenshot](https://github.com/user-attachments/assets/99868b8d-264d-49bc-81ff-42be47b9436a)
+![dss_screenshot](dss_screenshot.PNG)
+![dss_screenshot](dss_screenshot.png)
 
 Here is the small Power BI project I created with the help of my MSSQL database. 
 It includes a report on the Driver Safety Scorecard, featuring data from September 1, 2024. 
